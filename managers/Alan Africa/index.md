@@ -1,6 +1,8 @@
 # Alan Africa's Page
 
 
+
+
 # Harmanpreet Kaur
 
 
@@ -9,10 +11,12 @@ Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [
 CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [-40 Days Left]
 
 
+
 # Renee Reyes
 
 
 Forklift Class 5 Recurrent (CFORK5P) [-10 Days Left]
+
 
 
 # Kawaljeet Dhesi
@@ -21,6 +25,7 @@ Forklift Class 5 Recurrent (CFORK5P) [-10 Days Left]
 International DG Handling (CINTDGH) [-2 Days Left]
 
 SAFE LIFTING TECHNIQUES CDA0222 [-3 Days Left]
+
 
 
 # Gurpal Johal
@@ -35,6 +40,7 @@ Corporate Security Awareness TSA - INTL (CCSATT) [6 Days Left]
 SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
 
 
+
 # Reinel JuradoMariano
 
 
@@ -43,15 +49,18 @@ International DG Handling (CINTDGH) [4 Days Left]
 SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
 
 
+
 # PEDRO JAVIER GOMEZ FRANCO
 
 
 Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [10 Days Left]
 
 
+
 # Jabez John Menzi
 
 
 SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
+
 
 
