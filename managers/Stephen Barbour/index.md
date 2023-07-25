@@ -1,8 +1,5 @@
-Stephen Barbour's Page.
-=
-
-.
-=
+Stephen Barbour's Page
+======================
 
 Robert Urquhart
 ---------------
