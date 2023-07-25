@@ -1,11 +1,9 @@
-**Gary Llewellin's Pageeeee**
+**Gary Llewellin's Page**
 
 
 *harinder Kaur*
 
 ULD Loading (CULDLOD) [3 Days Left]
-
-
 *Nishandeep Singh*
 
 International DG Handling (CINTDGH) [-29 Days Left]
@@ -33,8 +31,6 @@ DG In-Depth Security Training WBT (CDGST1) [-2 Days Left]
 
 
 Fire Extinguisher Training (CFIREXT) [-2 Days Left]
-
-
 *Ramanpreet Singh*
 
 International DG Handling (CINTDGH) [-24 Days Left]
@@ -62,18 +58,12 @@ DG In-Depth Security Training WBT (CDGST1) [3 Days Left]
 
 
 Fire Extinguisher Training (CFIREXT) [3 Days Left]
-
-
 *Rene Sencio Jr*
 
 ULD Loading (CULDLOD) [7 Days Left]
-
-
 *James Iglesias*
 
 Corporate Security Awareness TSA - INTL (CCSATT) [-8 Days Left]
-
-
 *Bhupinder Singh*
 
 International DG Handling (CINTDGH) [-17 Days Left]
@@ -98,13 +88,9 @@ DG In-Depth Security Training WBT (CDGST1) [10 Days Left]
 
 
 Fire Extinguisher Training (CFIREXT) [10 Days Left]
-
-
 *Anabellia Lim*
 
 Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
 
 
 CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [10 Days Left]
-
-
