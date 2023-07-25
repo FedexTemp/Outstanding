@@ -1,8 +1,5 @@
-Ken Ralph's Page.
-=
-
-.
-=
+Ken Ralph's Page
+================
 
 Stephen Barbour
 ---------------
