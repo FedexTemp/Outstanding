@@ -12,16 +12,12 @@ CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Ca
 
   
   
-  
-  
 Renee Reyes
 -----------
 
 
 Forklift Class 5 Recurrent (CFORK5P) [-10 Days Left]
 
-  
-  
   
   
 Kawaljeet Dhesi
@@ -33,8 +29,6 @@ International DG Handling (CINTDGH) [-2 Days Left]
 
 SAFE LIFTING TECHNIQUES CDA0222 [-3 Days Left]
 
-  
-  
   
   
 Gurpal Johal
@@ -54,8 +48,6 @@ SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
 
   
   
-  
-  
 Reinel JuradoMariano
 --------------------
 
@@ -67,8 +59,6 @@ SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
 
   
   
-  
-  
 PEDRO JAVIER GOMEZ FRANCO
 -------------------------
 
@@ -77,15 +67,11 @@ Temperature Control Network (TCN) – Station and Sort Employee Training (TCN\_S
 
   
   
-  
-  
 Jabez John Menzi
 ----------------
 
 
 SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
 
-  
-  
   
   
