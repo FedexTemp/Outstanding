@@ -1,8 +1,5 @@
-Nifaz Shafi's Page.
-=
-
-.
-=
+Nifaz Shafi's Page
+==================
 
 Jyot Bhatia
 -----------
