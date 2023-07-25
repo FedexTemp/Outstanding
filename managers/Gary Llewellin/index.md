@@ -1,8 +1,5 @@
-Gary Llewellin's Page.
-=
-
-.
-=
+Gary Llewellin's Page
+=====================
 
 harinder Kaur
 -------------
