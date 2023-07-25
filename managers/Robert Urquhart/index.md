@@ -1,8 +1,5 @@
-Robert Urquhart's Page.
-=
-
-.
-=
+Robert Urquhart's Page
+======================
 
 JAEHAN JEON
 -----------
