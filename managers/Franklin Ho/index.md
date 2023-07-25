@@ -1,8 +1,5 @@
-Franklin Ho's Page.
-=
-
-.
-=
+Franklin Ho's Page
+==================
 
 Sameer Adhikari
 ---------------
