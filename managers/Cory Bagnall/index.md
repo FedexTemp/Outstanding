@@ -1,8 +1,5 @@
-Cory Bagnall's Page.
-=
-
-.
-=
+Cory Bagnall's Page
+===================
 
 Robert Araki
 ------------
