@@ -1,10 +1,6 @@
-Ken Ralph's Page
-================
+# Ken Ralph's Page
 
-Stephen Barbour
----------------
-
-
+## Stephen Barbour
 DG In-Depth Security Training WBT (CDGST1) [9 Days Left]
 
 
