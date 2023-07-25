@@ -1,8 +1,5 @@
-Alan Africa's Page.
-=
-
-.
-=
+Alan Africa's Page
+==================
 
 Harmanpreet Kaur
 ----------------
