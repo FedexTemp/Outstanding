@@ -3,37 +3,44 @@
 
 
 
-# Sameer Adhikari
+# Jayraj Bhadkan
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
-
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
-
-
-
-# Priyesh Amin
-
-
-SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-1 Days Left]
 
 
 
-# Tufan Kuley
+# Jan Bryan Florentin
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
-
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-1 Days Left]
 
 
 
-# Tieqiang Wang
+# Alexander Ang
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [18 Days Left]
 
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
+3 POINTS OF CONTACT CDA0221 [9 Days Left]
+
+
+
+# Anushka Anushka
+
+
+Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [8 Days Left]
+
+TCN Training Requirements Program – English (QA0003) [3 Days Left]
+
+
+
+# Rolando Marquez
+
+
+Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [4 Days Left]
+
+TCN Training Requirements Program – English (QA0003) [5 Days Left]
 
 
 
