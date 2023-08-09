@@ -3,33 +3,40 @@
 
 
 
-# Amanpreet Khinda
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-2 Days Left]
-
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [-2 Days Left]
-
-
-
 # Akash Menon
 
 
-ULD Loading Recurrent (CULDLDP) [-65 Days Left]
+International DG Handling (CINTDGH) [10 Days Left]
 
 
 
 # GLAYZEN SARMADI
 
 
-JHSC TRAINING - COMMITTEE MEMBERS CDA0136 [-1 Days Left]
+JHSC TRAINING - COMMITTEE MEMBERS CDA0136 [-8 Days Left]
 
 
 
-# Ralph Guy
+# Anthony Comple
 
 
-TCN Training Requirements Program – English (QA0003) [8 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [7 Days Left]
+
+Information Security Essentials [7 Days Left]
+
+
+
+# Sibin Jose
+
+
+Information Security Essentials [11 Days Left]
+
+
+
+# BENJAMIN ORTEZA
+
+
+Information Security Essentials [11 Days Left]
 
 
 
