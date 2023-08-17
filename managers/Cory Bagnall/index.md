@@ -6,73 +6,89 @@
 # Balkar Billing
 
 
-Vehicle Security Training (CLOCKIT) [-66 Days Left]
+Vehicle Security Training (CLOCKIT) [-70 Days Left]
 
 
 
 # Brinderpaul (Brinder) Dhami
 
 
-International DG Handling (CINTDGH) [-63 Days Left]
+International DG Handling (CINTDGH) [-67 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-104 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-108 Days Left]
 
-Vehicle Security Training (CLOCKIT) [-66 Days Left]
+Vehicle Security Training (CLOCKIT) [-70 Days Left]
 
 
 
 # Randall Fowle
 
 
-Vehicle Security Training (CLOCKIT) [-66 Days Left]
+Vehicle Security Training (CLOCKIT) [-70 Days Left]
+
+Information Security Essentials [9 Days Left]
 
 
 
 # Ron Pereschitz
 
 
-International DG Handling (CINTDGH) [-84 Days Left]
+International DG Handling (CINTDGH) [-88 Days Left]
 
 
 
 # Kier Fortes
 
 
-Safety Mgmt System (SMS) Basics Course (M910571) [-25 Days Left]
+Safety Mgmt System (SMS) Basics Course (M910571) [-29 Days Left]
 
-SmartDG Training (CSMTDG1) [-27 Days Left]
+SmartDG Training (CSMTDG1) [-31 Days Left]
 
 
 
 # Daniel Lamonte
 
 
-Full TRIP/VCom System (CTRIPX) [-11 Days Left]
+Full TRIP/VCom System (CTRIPX) [-15 Days Left]
 
-JSA Training - CTV Driver (CJSACTV) [-2 Days Left]
+JSA Training - CTV Driver (CJSACTV) [-6 Days Left]
 
 
 
 # Jan Paul (Paul) Besteman
 
 
-Information Security Essentials [4 Days Left]
+Information Security Essentials [0 Days Left]
 
 
 
 # Man Chin (Eric) Chung
 
 
-T-Stacking (CTSTACK) Multi-language [1 Days Left]
+T-Stacking (CTSTACK) Multi-language [-3 Days Left]
 
-Information Security Essentials [4 Days Left]
+Information Security Essentials [0 Days Left]
 
 
 
 # Ching-Kong Ho
 
 
-Information Security Essentials [5 Days Left]
+Information Security Essentials [1 Days Left]
+
+
+
+# Paul Conceicao
+
+
+Information Security Essentials [6 Days Left]
+
+
+
+# Norman Jaurigue
+
+
+Information Security Essentials [8 Days Left]
 
 
 
