@@ -6,50 +6,66 @@
 # Jamie Cooles
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-46 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-49 Days Left]
 
 
 
 # Derek White
 
 
-International DG Handling (CINTDGH) [2 Days Left]
-
-Information Security Essentials [10 Days Left]
-
-DG Specialist Recurrency (CDGSR) [2 Days Left]
+Information Security Essentials [7 Days Left]
 
 
 
 # Austin Olago
 
 
-Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [-3 Days Left]
+Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [-6 Days Left]
 
-TCN Training Requirements Program – English (QA0003) [-30 Days Left]
+TCN Training Requirements Program – English (QA0003) [-33 Days Left]
 
-Information Security Essentials [3 Days Left]
+Information Security Essentials [0 Days Left]
 
-TCN Good Documentation Practice SOP (QA0006) [9 Days Left]
-
-
-
-# Kin Wai (Ericsson) Chu
+TCN Good Documentation Practice SOP (QA0006) [6 Days Left]
 
 
-International DG Handling (CINTDGH) [-16 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-17 Days Left]
+# Erwin Rommel (Erwin) Cruz
 
-Corporate Security Awareness TSA - INTL (CCSATT) [-17 Days Left]
 
-Ground Security Coordinator CBT (CGSCJBX) [3 Days Left]
+Information Security Essentials [-2 Days Left]
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-17 Days Left]
 
-Aircraft Mishap Response (CMSHPRX) [-16 Days Left]
 
-Information Security Essentials [3 Days Left]
+# Norman Estaris
+
+
+Information Security Essentials [-1 Days Left]
+
+
+
+# Kenneth Ding
+
+
+Information Security Essentials [2 Days Left]
+
+TCN Good Documentation Practice SOP (QA0006) [6 Days Left]
+
+
+
+# Barbara Gastelum
+
+
+International DG Handling (CINTDGH) [0 Days Left]
+
+
+
+# Abdi Mohamud
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [2 Days Left]
+
+TCN Good Documentation Practice SOP (QA0006) [2 Days Left]
 
 
 
