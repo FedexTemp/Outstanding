@@ -3,73 +3,33 @@
 
 
 
-# Jose Mari Badong
+# RICKY Lou ANDRES
 
 
-Information Security Essentials [-1 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [16 Days Left]
 
-
-
-# Gurkanwar Singh
-
-
-Information Security Essentials [-1 Days Left]
+3 POINTS OF CONTACT CDA0221 [8 Days Left]
 
 
 
-# Micah Tantongco
+# Sofina Gill
 
 
-Information Security Essentials [-1 Days Left]
-
-
-
-# John Agustin
-
-
-Corporate Security Awareness TSA - INTL (CCSATT) [2 Days Left]
+ULD Loading (CULDLOD) [0 Days Left]
 
 
 
-# Chris Chow
+# Rolando Marquez
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [0 Days Left]
-
-
-
-# Ianna Corpuz
-
-
-Information Security Essentials [0 Days Left]
+International DG Handling (CINTDGH) [8 Days Left]
 
 
 
-# Evangelia (Evelyn) Eliopoulos
+# Mohammed Yazin Nazeer
 
 
-Information Security Essentials [7 Days Left]
-
-
-
-# Efrain Escanan
-
-
-Information Security Essentials [0 Days Left]
-
-
-
-# Hakju (Hak) Lee
-
-
-Information Security Essentials [6 Days Left]
-
-
-
-# Indermohan Singh
-
-
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [0 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [7 Days Left]
 
 
 
