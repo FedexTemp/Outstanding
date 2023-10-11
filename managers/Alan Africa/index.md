@@ -3,64 +3,35 @@
 
 
 
-# Harmanpreet Kaur
+# Juan Enrique Dario
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-40 Days Left]
+3 POINTS OF CONTACT CDA0221 [10 Days Left]
 
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [-40 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [20 Days Left]
 
+International DG Handling (CINTDGH) [-3 Days Left]
 
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
 
-# Renee Reyes
-
-
-Forklift Class 5 Recurrent (CFORK5P) [-10 Days Left]
-
-
-
-# Kawaljeet Dhesi
-
-
-International DG Handling (CINTDGH) [-2 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-3 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [10 Days Left]
 
 
 
-# Gurpal Johal
+# Diego Perez
 
 
-International DG Handling (CINTDGH) [5 Days Left]
+3 POINTS OF CONTACT CDA0221 [8 Days Left]
 
-Corporate Security Awareness TSA - INTL (CCSATT) [6 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [16 Days Left]
 
-3 POINTS OF CONTACT CDA0221 [3 Days Left]
+Information Security Essentials [8 Days Left]
 
-SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
+International DG Handling (CINTDGH) [8 Days Left]
 
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
 
-
-# Reinel JuradoMariano
-
-
-International DG Handling (CINTDGH) [4 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
-
-
-
-# PEDRO JAVIER GOMEZ FRANCO
-
-
-Temperature Control Network (TCN) – Station and Sort Employee Training (TCN_STASORT) [10 Days Left]
-
-
-
-# Jabez John Menzi
-
-
-SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [4 Days Left]
 
 
 
