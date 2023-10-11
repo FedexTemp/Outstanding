@@ -3,53 +3,54 @@
 
 
 
-# Nedim Yusufov
+# Steve Ellis
 
 
-Ground Security Coordinator CBT (CGSCJBX) [-4 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [-13 Days Left]
 
-Aircraft Mishap Response (CMSHPRX) [-96 Days Left]
+International DG Handling (CINTDGH) [3 Days Left]
+
+FEEDER LOAD VERIFICA-RECURRENT [-13 Days Left]
+
+Feeder GPU Recurrent (CFGPUP) [-80 Days Left]
+
+Weight Balance Quarterly Comp (CWBQC) [-35 Days Left]
+
+DG Specialist Recurrency (CDGSR) [-164 Days Left]
+
+DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [-164 Days Left]
+
+Ground Security Coordinator CBT (CGSCJBX) [-160 Days Left]
+
+Dry Ice Replenishment (CREICE) [-82 Days Left]
+
+
+
+# Andrew Jimenez
+
+
+Cargo Loader E-Stop Job Aid (CESTOP) [4 Days Left]
+
+
+
+# Nickolas Lowe
+
+
+Cargo Loader E-Stop Job Aid (CESTOP) [4 Days Left]
+
+
+
+# Salen Mani
+
+
+Safety Mgmt System (SMS) Basics Course (M910571) [20 Days Left]
 
 
 
 # Harold Uy
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [1 Days Left]
-
-Ground Security Coordinator CBT (CGSCJBX) [1 Days Left]
-
-Aircraft Mishap Response (CMSHPRX) [1 Days Left]
-
-
-
-# CHRISTINE HAJSAN
-
-
-Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [-3 Days Left]
-
-
-
-# William Koopman
-
-
-Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [-3 Days Left]
-
-DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [10 Days Left]
-
-
-
-# Mandeep Malli
-
-
-Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [-3 Days Left]
-
-
-
-# Reynaldo (Rey) Abo
-
-
-Forklift Class 1 Recurrent (CFORK1P) - Multi Language [-5649 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [10 Days Left]
 
 
 
