@@ -3,71 +3,67 @@
 
 
 
+# Robert Araki
+
+
+International DG Handling (CINTDGH) [3 Days Left]
+
+DG Specialist Recurrency (CDGSR) [3 Days Left]
+
+
+
 # Balkar Billing
 
 
-Vehicle Security Training (CLOCKIT) [-104 Days Left]
+Vehicle Security Training (CLOCKIT) [-41 Days Left]
 
 
 
 # Brinderpaul (Brinder) Dhami
 
 
-International DG Handling (CINTDGH) [-101 Days Left]
+International DG Handling (CINTDGH) [-38 Days Left]
 
-Information Security Essentials [-17 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-79 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-17 Days Left]
+Vehicle Security Training (CLOCKIT) [-41 Days Left]
 
 
 
 # Randall Fowle
 
 
-Vehicle Security Training (CLOCKIT) [-104 Days Left]
-
-Information Security Essentials [-25 Days Left]
+Vehicle Security Training (CLOCKIT) [-41 Days Left]
 
 
 
 # Ron Pereschitz
 
 
-International DG Handling (CINTDGH) [-122 Days Left]
+International DG Handling (CINTDGH) [-59 Days Left]
+
+
+
+# Mike Formella
+
+
+International DG Handling (CINTDGH) [-12 Days Left]
+
+
+
+# Jason Liu
+
+
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [-8 Days Left]
 
 
 
 # Kier Fortes
 
 
-Safety Mgmt System (SMS) Basics Course (M910571) [-63 Days Left]
+Safety Mgmt System (SMS) Basics Course (M910571) [0 Days Left]
 
-SmartDG Training (CSMTDG1) [-65 Days Left]
-
-
-
-# Daniel Lamonte
-
-
-Full TRIP/VCom System (CTRIPX) [-49 Days Left]
-
-JSA Training - CTV Driver (CJSACTV) [-40 Days Left]
-
-
-
-# Jan Paul (Paul) Besteman
-
-
-Information Security Essentials [-34 Days Left]
-
-
-
-# Man Chin (Eric) Chung
-
-
-T-Stacking (CTSTACK) Multi-language [-37 Days Left]
-
-Information Security Essentials [-34 Days Left]
+SmartDG Training (CSMTDG1) [-2 Days Left]
 
 
 
