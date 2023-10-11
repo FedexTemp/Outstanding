@@ -3,33 +3,37 @@
 
 
 
-# RICKY Lou ANDRES
+# Sameer Adhikari
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [16 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
 
-3 POINTS OF CONTACT CDA0221 [8 Days Left]
-
-
-
-# Sofina Gill
-
-
-ULD Loading (CULDLOD) [0 Days Left]
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
 
 
 
-# Rolando Marquez
+# Priyesh Amin
 
 
-International DG Handling (CINTDGH) [8 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
 
 
 
-# Mohammed Yazin Nazeer
+# Tufan Kuley
 
 
-SAFE LIFTING TECHNIQUES CDA0222 [7 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
+
+
+
+# Tieqiang Wang
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
 
 
 
