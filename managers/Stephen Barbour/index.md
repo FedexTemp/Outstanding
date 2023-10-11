@@ -3,19 +3,10 @@
 
 
 
-# Franklin Ho
+# Robert Urquhart
 
 
-Forklift Class 5 Recurrent (CFORK5P) [5 Days Left]
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [4 Days Left]
-
-
-
-# Gary Llewellin
-
-
-TCN Good Documentation Practice SOP (QA0006) [10 Days Left]
+B767 Pushback and Tow Recurrency (M91572P) [8 Days Left]
 
 
 
