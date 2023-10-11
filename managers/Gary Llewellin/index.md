@@ -3,100 +3,221 @@
 
 
 
-# harinder Kaur
+# Gurjeet Singh
 
 
-ULD Loading (CULDLOD) [3 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-10 Days Left]
 
+International DG Handling (CINTDGH) [-12 Days Left]
 
-
-# Nishandeep Singh
-
-
-International DG Handling (CINTDGH) [-29 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [-2 Days Left]
-
-3 POINTS OF CONTACT CDA0221 [-2 Days Left]
-
-ULD Loading (CULDLOD) [-2 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-2 Days Left]
-
-T-Stacking (CTSTACK) Multi-language [-2 Days Left]
-
-JSA Training – Cargo Handler (CJSACHN) [-2 Days Left]
-
-DG In-Depth Security Training WBT (CDGST1) [-2 Days Left]
-
-Fire Extinguisher Training (CFIREXT) [-2 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
-# Ramanpreet Singh
+# Napinder Chauhan
 
 
-International DG Handling (CINTDGH) [-24 Days Left]
+Information Security Essentials [-17 Days Left]
 
-Corporate Security Awareness TSA - INTL (CCSATT) [3 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-17 Days Left]
 
-3 POINTS OF CONTACT CDA0221 [3 Days Left]
-
-ULD Loading (CULDLOD) [3 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [3 Days Left]
-
-T-Stacking (CTSTACK) Multi-language [3 Days Left]
-
-JSA Training – Cargo Handler (CJSACHN) [3 Days Left]
-
-DG In-Depth Security Training WBT (CDGST1) [3 Days Left]
-
-Fire Extinguisher Training (CFIREXT) [3 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
-# Rene Sencio Jr
+# Fermin Abo
 
 
-ULD Loading (CULDLOD) [7 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Dorcas Babalola
+
+
+3 POINTS OF CONTACT CDA0221 [2 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [4 Days Left]
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Abhinav Chaudhry
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [5 Days Left]
+
+
+
+# Carlo Galvez
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Michael Hanlon
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Alexander Hopkins
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
 # James Iglesias
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [-8 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
-# Bhupinder Singh
+# Val Jamora
 
 
-International DG Handling (CINTDGH) [-17 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
-Corporate Security Awareness TSA - INTL (CCSATT) [10 Days Left]
 
-3 POINTS OF CONTACT CDA0221 [10 Days Left]
 
-ULD Loading (CULDLOD) [10 Days Left]
+# Brad Kerr
 
-T-Stacking (CTSTACK) Multi-language [10 Days Left]
 
-JSA Training – Cargo Handler (CJSACHN) [10 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
-DG In-Depth Security Training WBT (CDGST1) [10 Days Left]
 
-Fire Extinguisher Training (CFIREXT) [10 Days Left]
+
+# Shubham Khurana
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
 # Anabellia Lim
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [10 Days Left]
+
+
+# NOEL MARIN
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Karm Purewal
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Dennis Salvador
+
+
+3 POINTS OF CONTACT CDA0221 [9 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [18 Days Left]
+
+International DG Handling (CINTDGH) [9 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [9 Days Left]
+
+
+
+# Julian Sargeant
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Gurpreet Sidhu
+
+
+International DG Handling (CINTDGH) [4 Days Left]
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Inderpreet Sidhu
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Gurvinder Singh
+
+
+ULD Loading (CULDLOD) [0 Days Left]
+
+
+
+# Harshvir Singh
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Pawandeep Singh
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Vaishnavi Thakare
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Andrew Wigboldus
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Richard Wind
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Leonarndah (Wadza) Wise
+
+
+International DG Handling (CINTDGH) [1 Days Left]
+
+
+
+# Jason Xiao
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
+
+
+
+# Wilson Zheng
+
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [4 Days Left]
 
 
 
