@@ -3,40 +3,24 @@
 
 
 
-# JOSEPH MICHAEL Narciso
+# Jyot Bhatia
 
 
-Information Security Essentials [8 Days Left]
-
-FOUL WEATHER DRIVING AWARENESS (CDA0235) – English [2 Days Left]
-
-
-
-# Darseihl Estabillo
-
-
-SIAGDP - DEVA Audit Training (CSIAGDP) [7 Days Left]
+Safety Mgmt System (SMS) Basics Course (M910571) [4 Days Left]
 
 
 
-# Valaiyadum Lingam
+# William Chen
 
 
-Information Security Essentials [9 Days Left]
-
-
-
-# David Meek
-
-
-Information Security Essentials [4 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
 
 
 
-# Frances (Ivee) Pascual
+# Amandeep Kaur
 
 
-Information Security Essentials [4 Days Left]
+Key Policy Review P1-52 Workplace Practices - Breaks (Canada) [0 Days Left]
 
 
 
