@@ -3,54 +3,104 @@
 
 
 
-# Steve Ellis
+# David Heseltine
 
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-13 Days Left]
+Journey of a ULD (CULDJNY) [-21 Days Left]
 
-International DG Handling (CINTDGH) [3 Days Left]
-
-FEEDER LOAD VERIFICA-RECURRENT [-13 Days Left]
-
-Feeder GPU Recurrent (CFGPUP) [-80 Days Left]
-
-Weight Balance Quarterly Comp (CWBQC) [-35 Days Left]
-
-DG Specialist Recurrency (CDGSR) [-164 Days Left]
-
-DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [-164 Days Left]
-
-Ground Security Coordinator CBT (CGSCJBX) [-160 Days Left]
-
-Dry Ice Replenishment (CREICE) [-82 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-5 Days Left]
 
 
 
-# Andrew Jimenez
+# Roy Limawal
 
 
-Cargo Loader E-Stop Job Aid (CESTOP) [4 Days Left]
+Load Captain Certification (CLCAPTC) [-11 Days Left]
 
-
-
-# Nickolas Lowe
-
-
-Cargo Loader E-Stop Job Aid (CESTOP) [4 Days Left]
+Preventing Aircraft Strikes - PACS Initial (CPACS) [-11 Days Left]
 
 
 
-# Salen Mani
+# Isabelo (Lito) Ong
 
 
-Safety Mgmt System (SMS) Basics Course (M910571) [20 Days Left]
+International DG Handling (CINTDGH) [2 Days Left]
 
 
 
-# Harold Uy
+# Anthony (Tony) Lam
 
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [10 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-5 Days Left]
+
+
+
+# Jan Montecines
+
+
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-5 Days Left]
+
+
+
+# Jonathan (Jon) Rooney
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# Nedim Yusufov
+
+
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-5 Days Left]
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+B757 PB&T Recurrency (M91463P) [0 Days Left]
+
+B767 Pushback and Tow Recurrency (M91572P) [0 Days Left]
+
+
+
+# Jinwoong (Alex) Jang
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# William Koopman
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# Carissa Rodriguez
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# HARSHINDER SINGH
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# Wesley Wong
+
+
+Weight Balance Quarterly Comp (CWBQC) [0 Days Left]
+
+
+
+# Shubham Patil
+
+
+International DG Handling (CINTDGH) [-4 Days Left]
 
 
 
