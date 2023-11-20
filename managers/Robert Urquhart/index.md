@@ -6,56 +6,65 @@
 # Yuka Uchiyama
 
 
-Information Security Essentials [-66 Days Left]
+Information Security Essentials [-72 Days Left]
 
 
 
 # Vasily Vysotsky
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-12 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-18 Days Left]
 
 
 
 # Derek White
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-12 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-18 Days Left]
 
 
 
 # Amritpaul Kooner
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-12 Days Left]
-
-
-
-# Thomas Bleakley
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-4 Days Left]
-
-
-
-# RAJVANSH SINGH
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [2 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-18 Days Left]
 
 
 
 # Ayoub Wardere
 
 
-B757 PB&T Recurrency (M91463P) [-14 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
+
+B757 PB&T Recurrency (M91463P) [-20 Days Left]
 
 
 
 # Kevin Luong
 
 
-Belt Loader Class 1 Recurrent (CBELT1P) Multi-language [2 Days Left]
+Belt Loader Class 1 Recurrent (CBELT1P) Multi-language [-4 Days Left]
+
+
+
+# Jamie Cooles
+
+
+QDM Overview (C002124) [5 Days Left]
+
+
+
+# Kenneth Ding
+
+
+International DG Handling (CINTDGH) [4 Days Left]
+
+
+
+# Kenrick Moseley
+
+
+QDM Overview (C002124) [5 Days Left]
 
 
 
