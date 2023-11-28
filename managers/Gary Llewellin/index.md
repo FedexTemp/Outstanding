@@ -3,17 +3,17 @@
 
 
 
-# James Iglesias
+# Carlo Galvez
 
 
-Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [-20 Days Left]
+Information Security Essentials [9 Days Left]
 
 
 
-# Isha Sharma
+# PETER MENESES
 
 
-Safety Mgmt System (SMS) Basics Course (M910571) [4 Days Left]
+Information Security Essentials [9 Days Left]
 
 
 
