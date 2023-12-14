@@ -3,113 +3,118 @@
 
 
 
-# Roy Limawal
-
-
-Information Security Essentials [-8 Days Left]
-
-
-
 # Nedim Yusufov
 
 
-Information Security Essentials [-5 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-32 Days Left]
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-39 Days Left]
+B757 PB&T Recurrency (M91463P) [-37 Days Left]
 
-B757 PB&T Recurrency (M91463P) [-34 Days Left]
+B767 Pushback and Tow Recurrency (M91572P) [-37 Days Left]
 
-B767 Pushback and Tow Recurrency (M91572P) [-34 Days Left]
+QDM Overview (C002124) [-19 Days Left]
 
-QDM Overview (C002124) [-16 Days Left]
+FEEDER LOAD VERIFICA-RECURRENT [-9 Days Left]
 
-FEEDER LOAD VERIFICA-RECURRENT [-6 Days Left]
-
-Aircraft Tethering (M910394) [0 Days Left]
+Aircraft Tethering (M910394) [-3 Days Left]
 
 
 
 # Jet Nahal
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-311 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [10 Days Left]
 
-International DG Handling (CINTDGH) [-14 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-314 Days Left]
 
-Belt Loader Class 1 Recurrent (CBELT1P) Multi-language [-304 Days Left]
+International DG Handling (CINTDGH) [-17 Days Left]
 
-Safety Mgmt System (SMS) Basics Course (M910571) [-308 Days Left]
+Belt Loader Class 1 Recurrent (CBELT1P) Multi-language [-307 Days Left]
 
-B757 PB&T Recurrency (M91463P) [-152 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [11 Days Left]
 
-B767 Pushback and Tow Recurrency (M91572P) [-152 Days Left]
+Safety Mgmt System (SMS) Basics Course (M910571) [-311 Days Left]
 
-Ramp Basics Recurrent (CAE154P) Multi-language [-323 Days Left]
+B757 PB&T Recurrency (M91463P) [-155 Days Left]
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-363 Days Left]
+B767 Pushback and Tow Recurrency (M91572P) [-155 Days Left]
 
-ULD Loading Recurrent (CULDLDP) [-322 Days Left]
+Ramp Basics Recurrent (CAE154P) Multi-language [-326 Days Left]
 
-Belt Loader Class 6 Recurrent (CBELT6P) Multi-language [-304 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [-366 Days Left]
 
-757 GS Recurrent (C757GSP) Multi-language [-295 Days Left]
+ULD Loading Recurrent (CULDLDP) [-325 Days Left]
 
-767 GS Recurrent (C767GSP) [-294 Days Left]
+Belt Loader Class 6 Recurrent (CBELT6P) Multi-language [-307 Days Left]
 
-Loader A/C CDR15 Recurrent (CDR15P) Multi-language [-296 Days Left]
+757 GS Recurrent (C757GSP) Multi-language [-298 Days Left]
 
-Loader A/C CDR30 Recurrent (CDR30P) Multi-language [-296 Days Left]
+767 GS Recurrent (C767GSP) [-297 Days Left]
 
-Load Captain Recurrent (CLCAPTP) [-291 Days Left]
+Loader A/C CDR15 Recurrent (CDR15P) Multi-language [-299 Days Left]
 
-Aircraft Marshalling Recurrent (CMARSHP) [-301 Days Left]
+Loader A/C CDR30 Recurrent (CDR30P) Multi-language [-299 Days Left]
 
-Aircraft Marshalling Feeder Recurrent (CMRSHFP) [-301 Days Left]
+Load Captain Recurrent (CLCAPTP) [-294 Days Left]
 
-Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [-319 Days Left]
+Aircraft Marshalling Recurrent (CMARSHP) [-304 Days Left]
 
-Wingwalker Recurrent (CWNGWKP) [-304 Days Left]
+Aircraft Marshalling Feeder Recurrent (CMRSHFP) [-304 Days Left]
 
-Things Falling Off Aircraft (CTFOA) [-297 Days Left]
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [-322 Days Left]
 
-Ground Security Coordinator CBT (CGSCJBX) [-164 Days Left]
+Wingwalker Recurrent (CWNGWKP) [-307 Days Left]
 
-Aircraft Mishap Response (CMSHPRX) [-1046 Days Left]
+Things Falling Off Aircraft (CTFOA) [-300 Days Left]
 
+Ground Security Coordinator CBT (CGSCJBX) [-167 Days Left]
 
-
-# Sophia Khan
-
-
-Cargo Loader E-Stop Job Aid (CESTOP) [9 Days Left]
+Aircraft Mishap Response (CMSHPRX) [-1049 Days Left]
 
 
 
 # Grayson Pement
 
 
-International DG Handling (CINTDGH) [1 Days Left]
+Key Policy Review P1-52 Workplace Practices - Breaks (Canada) [8 Days Left]
 
+Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [8 Days Left]
 
-
-# Bruce Robinson
-
-
-Cargo Loader E-Stop Job Aid (CESTOP) [9 Days Left]
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [8 Days Left]
 
 
 
 # Harold Uy
 
 
-Cargo Loader E-Stop Job Aid (CESTOP) [4 Days Left]
+Cargo Loader E-Stop Job Aid (CESTOP) [1 Days Left]
 
 
 
-# Zachary (Zach) Wilson
+# Mario Jesus De Guzman
 
 
-Universal Dolly Job Aid (CUVDLF) [4 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [10 Days Left]
+
+QDM Basics Video - C002103 [8 Days Left]
+
+
+
+# Mandeep Malli
+
+
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [10 Days Left]
+
+
+
+# Steve Sun
+
+
+Key Policy Review P1-52 Workplace Practices - Breaks (Canada) [8 Days Left]
+
+Key Policy Review: 1-10 Code of Business Conduct (CKPRCBC) – EN (Canada Only) [8 Days Left]
+
+Key Policy Review: 1-12 Social Media and Computer Resources – EN (CKPRSMC) [8 Days Left]
 
 
 
