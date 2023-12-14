@@ -6,56 +6,32 @@
 # Zize Jiang
 
 
-Information Security Essentials [-5 Days Left]
-
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-11 Days Left]
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-14 Days Left]
 
 
 
 # Sreedev Radhakrishnan
 
 
-International DG Handling (CINTDGH) [-13 Days Left]
+International DG Handling (CINTDGH) [-16 Days Left]
 
-SAFE LIFTING TECHNIQUES CDA0222 [-17 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [-20 Days Left]
 
 
 
 # John Agustin
 
 
-Information Security Essentials [-5 Days Left]
-
-DG In-Depth Security Training WBT (CDGST1) [-5 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-8 Days Left]
 
 
 
-# Neha Malik
+# Derrick Hong
 
 
-Information Security Essentials [-5 Days Left]
+T-Stacking (CTSTACK) Multi-language [8 Days Left]
 
-
-
-# Bett Brian
-
-
-3 POINTS OF CONTACT CDA0221 [8 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [16 Days Left]
-
-International DG Handling (CINTDGH) [8 Days Left]
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [8 Days Left]
-
-
-
-# Efrain Escanan
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [4 Days Left]
+ULD Loading Recurrent (CULDLDP) [8 Days Left]
 
 
 
