@@ -3,44 +3,28 @@
 
 
 
-# Lloyd Bonus
-
-
-International DG Handling (CINTDGH) [-6 Days Left]
-
-
-
 # GURPREET SIDHU
 
 
-DG In-Depth Security Training WBT (CDGST1) [-7 Days Left]
-
-
-
-# Julian Sargeant
-
-
-3 POINTS OF CONTACT CDA0221 [-5 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [-10 Days Left]
-
-International DG Handling (CINTDGH) [-5 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-11 Days Left]
 
 
 
 # Jerico Redito
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [5 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
 
 
 
-# Wilson Zheng
+# Julian Sargeant
 
 
-T-Stacking (CTSTACK) Multi-language [7 Days Left]
+3 POINTS OF CONTACT CDA0221 [-9 Days Left]
 
-ULD Loading Recurrent (CULDLDP) [7 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [-18 Days Left]
+
+International DG Handling (CINTDGH) [-9 Days Left]
 
 
 
