@@ -3,35 +3,35 @@
 
 
 
-# Zize Jiang
+# Derrick Hong
 
 
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-14 Days Left]
+T-Stacking (CTSTACK) Multi-language [4 Days Left]
 
-
-
-# Sreedev Radhakrishnan
-
-
-International DG Handling (CINTDGH) [-16 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-20 Days Left]
+ULD Loading Recurrent (CULDLDP) [4 Days Left]
 
 
 
 # John Agustin
 
 
-DG In-Depth Security Training WBT (CDGST1) [-8 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-12 Days Left]
 
 
 
-# Derrick Hong
+# Sreedev Radhakrishnan
 
 
-T-Stacking (CTSTACK) Multi-language [8 Days Left]
+International DG Handling (CINTDGH) [-20 Days Left]
 
-ULD Loading Recurrent (CULDLDP) [8 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [-24 Days Left]
+
+
+
+# Zize Jiang
+
+
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-18 Days Left]
 
 
 
