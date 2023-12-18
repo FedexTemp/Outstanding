@@ -6,44 +6,37 @@
 # Daniel Morales
 
 
-Vehicle and Package Security (Canada – VEHICLESEC) [3 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-1 Days Left]
 
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-14 Days Left]
-
-
-
-# Gagan Chand
-
-
-ULD Loading Recurrent (CULDLDP) [16 Days Left]
-
-
-
-# Margarete De Sousa Soares Amaral
-
-
-International DG Handling (CINTDGH) [-10 Days Left]
-
-
-
-# Nardeep Sarkaria
-
-
-International DG Handling (CINTDGH) [-10 Days Left]
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-18 Days Left]
 
 
 
 # Filamor (Fil) Almadin
 
 
-International DG Handling (CINTDGH) [6 Days Left]
+International DG Handling (CINTDGH) [2 Days Left]
+
+
+
+# Gagan Chand
+
+
+ULD Loading Recurrent (CULDLDP) [8 Days Left]
 
 
 
 # Michael Montero
 
 
-Safety Mgmt System (SMS) Basics Course (M910571) [8 Days Left]
+Safety Mgmt System (SMS) Basics Course (M910571) [4 Days Left]
+
+
+
+# Nardeep Sarkaria
+
+
+International DG Handling (CINTDGH) [-14 Days Left]
 
 
 
