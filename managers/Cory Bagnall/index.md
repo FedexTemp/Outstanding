@@ -6,75 +6,59 @@
 # Brinderpaul (Brinder) Dhami
 
 
-International DG Handling (CINTDGH) [-188 Days Left]
+International DG Handling (CINTDGH) [-192 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-104 Days Left]
-
-
-
-# Jan Paul (Paul) Besteman
-
-
-Forklift Class 5 Recurrent (CFORK5P) [-24 Days Left]
-
-
-
-# Paul Conceicao
-
-
-T-Stacking (CTSTACK) Multi-language [5 Days Left]
-
-Vehicle and Package Security (Canada – VEHICLESEC) [10 Days Left]
-
-
-
-# Randall Fowle
-
-
-International DG Handling (CINTDGH) [-26 Days Left]
-
-
-
-# Zheng Xing (Shing) Bian
-
-
-Forklift Class 5 Recurrent (CFORK5P) [-109 Days Left]
-
-Vehicle and Package Security (Canada – VEHICLESEC) [-22 Days Left]
-
-Ramp Basics Recurrent (CAE154P) Multi-language [-24 Days Left]
-
-QDM Overview (C002124) [-19 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-108 Days Left]
 
 
 
 # Ching-Kong Ho
 
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-8 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-12 Days Left]
 
 
 
 # gaozhi zhang
 
 
-International DG Handling (CINTDGH) [-39 Days Left]
+International DG Handling (CINTDGH) [-43 Days Left]
 
 
 
-# Herman Andaya
+# Jan Paul (Paul) Besteman
 
 
-International DG Handling (CINTDGH) [-3 Days Left]
-
-Safety Mgmt System (SMS) Basics Course (M910571) [-6 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-28 Days Left]
 
 
 
-# RENOLD BABURAJ
+# Paul Conceicao
 
 
-International DG Handling (CINTDGH) [-2 Days Left]
+T-Stacking (CTSTACK) Multi-language [1 Days Left]
+
+Vehicle and Package Security (Canada – VEHICLESEC) [6 Days Left]
+
+
+
+# Randall Fowle
+
+
+International DG Handling (CINTDGH) [-30 Days Left]
+
+
+
+# Zheng Xing (Shing) Bian
+
+
+Forklift Class 5 Recurrent (CFORK5P) [-113 Days Left]
+
+Vehicle and Package Security (Canada – VEHICLESEC) [-26 Days Left]
+
+Ramp Basics Recurrent (CAE154P) Multi-language [-28 Days Left]
+
+QDM Overview (C002124) [-23 Days Left]
 
 
 
