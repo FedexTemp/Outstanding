@@ -3,24 +3,24 @@
 
 
 
-# Jeffrey Lee
-
-
-Weight Balance Quarterly Comp (CWBQC) [-36 Days Left]
-
-
-
 # Amado (JJ) Cruz
 
 
-Density Coaching Workshop (CDENSITY) [5 Days Left]
+Density Coaching Workshop (CDENSITY) [1 Days Left]
+
+
+
+# Jeffrey Lee
+
+
+Weight Balance Quarterly Comp (CWBQC) [-40 Days Left]
 
 
 
 # Robert Urquhart
 
 
-Density Coaching Workshop (CDENSITY) [2 Days Left]
+Density Coaching Workshop (CDENSITY) [-2 Days Left]
 
 
 
