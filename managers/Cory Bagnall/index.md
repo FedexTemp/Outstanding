@@ -3,62 +3,99 @@
 
 
 
+# Balkar Billing
+
+
+International DG Handling (CINTDGH) [3 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
+
+
+
 # Brinderpaul (Brinder) Dhami
 
 
-International DG Handling (CINTDGH) [-192 Days Left]
+International DG Handling (CINTDGH) [-213 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-108 Days Left]
-
-
-
-# Ching-Kong Ho
-
-
-Vehicle and Package Security (Canada – VEHICLESEC) [-12 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-129 Days Left]
 
 
 
 # gaozhi zhang
 
 
-International DG Handling (CINTDGH) [-43 Days Left]
+International DG Handling (CINTDGH) [-64 Days Left]
+
+Vehicle and Package Security (Canada – VEHICLESEC) [5 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [5 Days Left]
+
+
+
+# Herman Andaya
+
+
+T-Stacking (CTSTACK) Multi-language [-1 Days Left]
+
+Things Falling Off Aircraft (CTFOA) [-1 Days Left]
 
 
 
 # Jan Paul (Paul) Besteman
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-28 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-49 Days Left]
+
+
+
+# Jason Liu
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [5 Days Left]
+
+
+
+# Kier Fortes
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
+
+
+
+# Mike Formella
+
+
+Vehicle and Package Security (Canada – VEHICLESEC) [4 Days Left]
 
 
 
 # Paul Conceicao
 
 
-T-Stacking (CTSTACK) Multi-language [1 Days Left]
-
-Vehicle and Package Security (Canada – VEHICLESEC) [6 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-15 Days Left]
 
 
 
 # Randall Fowle
 
 
-International DG Handling (CINTDGH) [-30 Days Left]
+International DG Handling (CINTDGH) [-51 Days Left]
+
+
+
+# Robert Araki
+
+
+Vehicle and Package Security (Canada – VEHICLESEC) [3 Days Left]
 
 
 
 # Zheng Xing (Shing) Bian
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-113 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-134 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-26 Days Left]
-
-Ramp Basics Recurrent (CAE154P) Multi-language [-28 Days Left]
-
-QDM Overview (C002124) [-23 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
 
 
 
