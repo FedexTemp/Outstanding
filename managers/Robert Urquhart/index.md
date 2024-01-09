@@ -6,62 +6,110 @@
 # Amritpaul Kooner
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-46 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-67 Days Left]
 
 
 
-# Colin Lawrence
+# Barbara Gastelum
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-6 Days Left]
+
+
+
+# Christopher (Chris) Nordstrom
+
+
+Competency Check for Tie Down (CDGTDHC) [5 Days Left]
+
+
+
+# Clarence Ang
+
+
+757 GS Recurrent (C757GSP) Multi-language [3 Days Left]
 
 
 
 # Derek White
 
 
-Forklift Class 5 Recurrent (CFORK5P) [5 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-16 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [5 Days Left]
+
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-6 Days Left]
 
 
 
-# Kenneth Ding
+# Erwin Rommel (Erwin) Cruz
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-5 Days Left]
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-12 Days Left]
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [4 Days Left]
+
+Forklift Class 3 Recurrent (CFORK3P) [4 Days Left]
+
+
+
+# Jamie Cooles
+
+
+Weight Balance Quarterly Comp (CWBQC) [-5 Days Left]
 
 
 
 # Kenrick Moseley
 
 
-767 W&B Recurrent (C767WP) [-14 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
+
+Weight Balance Quarterly Comp (CWBQC) [-5 Days Left]
+
+767 W&B Recurrent (C767WP) [-35 Days Left]
 
 
 
 # Kevin Luong
 
 
-Loader A/C CDR15 Recurrent (CDR15P) Multi-language [3 Days Left]
-
-Loader A/C CDR30 Recurrent (CDR30P) Multi-language [3 Days Left]
+Load Captain Recurrent (CLCAPTP) [7 Days Left]
 
 
 
-# RAJVANSH SINGH
+# Michael (Mike) D'Onofrio
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
+Weight Balance Quarterly Comp (CWBQC) [-5 Days Left]
+
+
+
+# Norman Estaris
+
+
+Weight Balance Quarterly Comp (CWBQC) [-5 Days Left]
+
+
+
+# Paola Limbo
+
+
+Competency Check for Tie Down (CDGTDHC) [5 Days Left]
+
+
+
+# Vasily Vysotsky
+
+
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-6 Days Left]
 
 
 
 # Yuka Uchiyama
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
-
-Feeder Handling Recurrent (CAF137P) Multi-language [-484 Days Left]
+767 GS Recurrent (C767GSP) [10 Days Left]
 
 
 
