@@ -3,27 +3,54 @@
 
 
 
-# Mandeep Malli
+# Carissa Rodriguez
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [6 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
 
 
 
-# Nedim Yusufov
+# David Heseltine
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-40 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
 
-B757 PB&T Recurrency (M91463P) [-41 Days Left]
 
-B767 Pushback and Tow Recurrency (M91572P) [-41 Days Left]
 
-QDM Overview (C002124) [-23 Days Left]
+# Jonathan (Jon) Rooney
 
-FEEDER LOAD VERIFICA-RECURRENT [-13 Days Left]
 
-Aircraft Tethering (M910394) [-7 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [6 Days Left]
+
+
+
+# Mario Jesus De Guzman
+
+
+Corporate Security Awareness TSA - INTL (CCSATT) [4 Days Left]
+
+International DG Handling (CINTDGH) [4 Days Left]
+
+
+
+# Roy Limawal
+
+
+Forklift Class 5 Recurrent (CFORK5P) [6 Days Left]
+
+
+
+# Steve Ellis
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
+
+
+
+# YongEui (Roy) Park
+
+
+Cargo Screening Recurrent (CSCRNIP) Multi-language [1 Days Left]
 
 
 
