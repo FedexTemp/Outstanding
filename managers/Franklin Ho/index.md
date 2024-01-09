@@ -3,35 +3,63 @@
 
 
 
-# Derrick Hong
+# Cle Art Pira
 
 
-T-Stacking (CTSTACK) Multi-language [4 Days Left]
-
-ULD Loading Recurrent (CULDLDP) [4 Days Left]
-
-
-
-# John Agustin
-
-
-DG In-Depth Security Training WBT (CDGST1) [-12 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [4 Days Left]
 
 
 
-# Sreedev Radhakrishnan
+# Goraksha Bajaj
 
 
-International DG Handling (CINTDGH) [-20 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-24 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
 
 
 
-# Zize Jiang
+# Jamile Santos
 
 
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-18 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
+
+
+
+# Jayme De Guzman
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
+
+
+
+# Kelly Sato
+
+
+3 POINTS OF CONTACT CDA0221 [9 Days Left]
+
+
+
+# Kricia Layno
+
+
+International DG Handling (CINTDGH) [10 Days Left]
+
+
+
+# Mireya Lozano
+
+
+Corporate Security Awareness TSA - INTL (CCSATT) [18 Days Left]
+
+International DG Handling (CINTDGH) [9 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+
+
+# Upali Sirikumara
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [5 Days Left]
 
 
 
