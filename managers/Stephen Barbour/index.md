@@ -6,39 +6,34 @@
 # Alan Africa
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [6 Days Left]
+
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [6 Days Left]
 
 
 
 # Amado (JJ) Cruz
 
 
-Density Coaching Workshop (CDENSITY) [-20 Days Left]
-
-
-
-# Jeffrey Lee
-
-
-Weight Balance Quarterly Comp (CWBQC) [-61 Days Left]
+Density Coaching Workshop (CDENSITY) [-27 Days Left]
 
 
 
 # Nifaz Shafi
 
 
-DG Operations Manager - International (CDGMGRI) [-3 Days Left]
+DG Operations Manager - International (CDGMGRI) [-10 Days Left]
 
 
 
 # Robert Urquhart
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [2 Days Left]
 
-Weight Balance Quarterly Comp (CWBQC) [9 Days Left]
+Weight Balance Quarterly Comp (CWBQC) [2 Days Left]
 
-Density Coaching Workshop (CDENSITY) [-23 Days Left]
+Density Coaching Workshop (CDENSITY) [-30 Days Left]
 
 
 
