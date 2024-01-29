@@ -3,67 +3,85 @@
 
 
 
-# Roy Limawal
-
-
-Forklift Class 5 Recurrent (CFORK5P) [-8 Days Left]
-
-International DG Handling (CINTDGH) [10 Days Left]
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-9 Days Left]
-
-
-
-# YongEui (Roy) Park
-
-
-Corporate Security Awareness TSA - INTL (CCSATT) [9 Days Left]
-
-
-
 # Nedim Yusufov
 
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-536 Days Left]
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
 
-
-
-# Reynaldo (Rey) Abo
-
-
-SmartDG Training (CSMTDG1) [4 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-543 Days Left]
 
 
 
 # Sophia Khan
 
 
-SmartDG Training (CSMTDG1) [4 Days Left]
+SmartDG Training (CSMTDG1) [-3 Days Left]
 
 
 
 # HARSHINDER SINGH
 
 
-SmartDG Training (CSMTDG1) [4 Days Left]
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
+
+SmartDG Training (CSMTDG1) [-3 Days Left]
 
 
 
-# Harold Uy
+# Mario Jesus De Guzman
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [7 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [10 Days Left]
 
-SmartDG Training (CSMTDG1) [4 Days Left]
-
-
-
-# Zachary (Zach) Wilson
+Cargo Screening Recurrent (CSCRNIP) Multi-language [10 Days Left]
 
 
-Aircraft Mishap Response (CMSHPRX) [10 Days Left]
+
+# Jinwoong (Alex) Jang
+
+
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
+
+
+
+# William Koopman
+
+
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
+
+Ground Security Coordinator CBT (CGSCJBX) [12 Days Left]
+
+Aircraft Mishap Response (CMSHPRX) [12 Days Left]
+
+
+
+# Bruce Robinson
+
+
+Aircraft Mishap Response (CMSHPRX) [9 Days Left]
+
+Load Captain Recurrent (CLCAPTP) [7 Days Left]
+
+
+
+# Carissa Rodriguez
+
+
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
+
+
+
+# Jonathan (Jon) Rooney
+
+
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
+
+
+
+# Wesley Wong
+
+
+Weight Balance Quarterly Comp (CWBQC) [8 Days Left]
 
 
 
