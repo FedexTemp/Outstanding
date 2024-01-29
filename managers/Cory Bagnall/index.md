@@ -6,170 +6,108 @@
 # Balkar Billing
 
 
-International DG Handling (CINTDGH) [-11 Days Left]
+International DG Handling (CINTDGH) [-18 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-11 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-18 Days Left]
 
 
 
 # Brinderpaul (Brinder) Dhami
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-3 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-10 Days Left]
 
-International DG Handling (CINTDGH) [-227 Days Left]
+International DG Handling (CINTDGH) [-234 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-143 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-150 Days Left]
 
-Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [-3 Days Left]
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [-10 Days Left]
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-3 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-10 Days Left]
 
 
 
 # gaozhi zhang
 
 
-International DG Handling (CINTDGH) [-78 Days Left]
+International DG Handling (CINTDGH) [-85 Days Left]
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-9 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-16 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-9 Days Left]
-
-
-
-# Herman Andaya
-
-
-T-Stacking (CTSTACK) Multi-language [-15 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-16 Days Left]
 
 
 
 # Jan Paul (Paul) Besteman
 
 
-Forklift Class 5 Recurrent (CFORK5P) [-63 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [8 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
 
 
 
 # Kier Fortes
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-6 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-13 Days Left]
 
-SENSEAWARE TRAINING RECURRENCY (CSENSEP) [1 Days Left]
-
-
-
-# Mike Formella
-
-
-Vehicle and Package Security (Canada – VEHICLESEC) [-10 Days Left]
+SENSEAWARE TRAINING RECURRENCY (CSENSEP) [-6 Days Left]
 
 
 
 # Randall Fowle
 
 
-International DG Handling (CINTDGH) [-65 Days Left]
+International DG Handling (CINTDGH) [-72 Days Left]
 
 
 
 # Robert Araki
 
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-11 Days Left]
-
-DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [-2 Days Left]
-
-Aircraft Tethering (M910394) [9 Days Left]
-
-
-
-# Zheng Xing (Shing) Bian
-
-
-Forklift Class 5 Recurrent (CFORK5P) [-148 Days Left]
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-13 Days Left]
-
-
-
-# DAMIEN BROWN
-
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-981 Days Left]
-
-
-
-# Thomas Covey
-
-
-Corporate Security Awareness TSA - INTL (CCSATT) [1 Days Left]
-
-International DG Handling (CINTDGH) [9 Days Left]
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
-
-
-
-# Anton Urdes
-
-
-International DG Handling (CINTDGH) [9 Days Left]
-
-
-
-# RENOLD BABURAJ
-
-
-Full TRIP/VCom System (CTRIPX) [9 Days Left]
+Aircraft Tethering (M910394) [2 Days Left]
 
 
 
 # Man Chin (Eric) Chung
 
 
-International DG Handling (CINTDGH) [7 Days Left]
+International DG Handling (CINTDGH) [0 Days Left]
 
 
 
 # Paul Conceicao
 
 
-Forklift Class 5 Recurrent (CFORK5P) [8 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [1 Days Left]
 
-Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [8 Days Left]
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [1 Days Left]
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [8 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [1 Days Left]
 
 
 
 # Fernando Ferreira
 
 
-Full TRIP/VCom System (CTRIPX) [9 Days Left]
+T-Stacking (CTSTACK) Multi-language [7 Days Left]
+
+Full TRIP/VCom System (CTRIPX) [2 Days Left]
 
 
 
 # Jackson Li
 
 
-Full TRIP/VCom System (CTRIPX) [9 Days Left]
-
-
-
-# Gilbert Limbo
-
-
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [5 Days Left]
+Full TRIP/VCom System (CTRIPX) [2 Days Left]
 
 
 
 # Tushar Oza
 
 
-Full TRIP/VCom System (CTRIPX) [9 Days Left]
+Full TRIP/VCom System (CTRIPX) [2 Days Left]
 
 
 
