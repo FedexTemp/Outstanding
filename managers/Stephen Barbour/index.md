@@ -3,33 +3,17 @@
 
 
 
-# Alan Africa
-
-
-DG Operations Manager - International (CDGMGRI) [3 Days Left]
-
-
-
-# Amado (JJ) Cruz
-
-
-Ground Security Coordinator CBT (CGSCJBX) [2 Days Left]
-
-Aircraft Tethering (M910394) [2 Days Left]
-
-
-
 # Nifaz Shafi
 
 
-Information Security Essentials [9 Days Left]
+Information Security Essentials [2 Days Left]
 
 
 
-# Robert Urquhart
+# Taranjit (Taran) Kapoor
 
 
-Weight Balance Quarterly Comp (CWBQC) [-12 Days Left]
+Dimensions - Managers (CDIMENSIONS) [0 Days Left]
 
 
 
