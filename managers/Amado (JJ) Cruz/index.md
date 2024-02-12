@@ -6,91 +6,49 @@
 # Nedim Yusufov
 
 
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-550 Days Left]
-
-
-
-# Sophia Khan
-
-
-SmartDG Training (CSMTDG1) [-10 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-557 Days Left]
 
 
 
 # HARSHINDER SINGH
 
 
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
+SENSEAWARE TRAINING RECURRENCY (CSENSEP) [9 Days Left]
 
-SmartDG Training (CSMTDG1) [-10 Days Left]
+SmartDG Training (CSMTDG1) [-17 Days Left]
 
-
-
-# Mario Jesus De Guzman
-
-
-Ground Security Coordinator CBT (CGSCJBX) [3 Days Left]
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [3 Days Left]
-
-
-
-# Jinwoong (Alex) Jang
-
-
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [9 Days Left]
 
 
 
 # William Koopman
 
 
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
+Feeder Handling Recurrent (CAF137P) Multi-language [0 Days Left]
 
-Feeder Handling Recurrent (CAF137P) Multi-language [7 Days Left]
+Feeder Ramp Ops Recurrent (CAF157P) Multi-language [0 Days Left]
 
-Feeder Ramp Ops Recurrent (CAF157P) Multi-language [7 Days Left]
-
-Shoring Recurrent (CST100P) Multi-language [7 Days Left]
+Shoring Recurrent (CST100P) Multi-language [0 Days Left]
 
 
 
-# Bruce Robinson
+# Marvin Roth Lagura
 
 
-Aircraft Mishap Response (CMSHPRX) [2 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [5 Days Left]
 
-Load Captain Recurrent (CLCAPTP) [0 Days Left]
+767 GS Recurrent (C767GSP) [6 Days Left]
 
+Load Captain Recurrent (CLCAPTP) [10 Days Left]
 
-
-# Carissa Rodriguez
-
-
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
+757 GS Recurrent (C757GSP) Multi-language [5 Days Left]
 
 
 
-# Jonathan (Jon) Rooney
+# Harold Uy
 
 
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
-
-
-
-# Wesley Wong
-
-
-Weight Balance Quarterly Comp (CWBQC) [1 Days Left]
-
-
-
-# YongEui (Roy) Park
-
-
-DG In-Depth Security Training WBT (CDGST1) [6 Days Left]
+Dry Ice Replenishment (CREICE) [10 Days Left]
 
 
 
