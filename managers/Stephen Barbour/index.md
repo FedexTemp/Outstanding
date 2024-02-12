@@ -6,14 +6,7 @@
 # Nifaz Shafi
 
 
-Information Security Essentials [2 Days Left]
-
-
-
-# Taranjit (Taran) Kapoor
-
-
-Dimensions - Managers (CDIMENSIONS) [0 Days Left]
+Information Security Essentials [-5 Days Left]
 
 
 
