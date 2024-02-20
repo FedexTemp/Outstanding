@@ -6,48 +6,21 @@
 # GLAYZEN SARMADI
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-32 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-40 Days Left]
 
 
 
-# Likith Reddy Siddenki
+# Tejaswini Kotha
 
 
-ULD Loading (CULDLOD) [-42 Days Left]
-
-
-
-# Pinderjit Kaur
-
-
-ULD Loading (CULDLOD) [-43 Days Left]
+International DG Handling (CINTDGH) [0 Days Left]
 
 
 
-# Ramanjit Nagra
+# Brenda Zamora
 
 
-ULD Loading (CULDLOD) [-43 Days Left]
-
-
-
-# Amrinder Sekhon
-
-
-3 POINTS OF CONTACT CDA0221 [3 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [6 Days Left]
-
-International DG Handling (CINTDGH) [3 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [2 Days Left]
-
-
-
-# Yna (L) Vargas
-
-
-DG In-Depth Security Training WBT (CDGST1) [-2 Days Left]
+International DG Handling (CINTDGH) [9 Days Left]
 
 
 
