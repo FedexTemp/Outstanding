@@ -3,45 +3,48 @@
 
 
 
-# Akash Menon
-
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-128 Days Left]
-
-
-
-# John (Jack) Rally
-
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-252 Days Left]
-
-
-
 # Efraim Don Arcangel
 
 
-International DG Handling (CINTDGH) [-13 Days Left]
+3 POINTS OF CONTACT CDA0221 [6 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [12 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [6 Days Left]
 
 
 
 # Zoheb Hassan
 
 
-SAFE LIFTING TECHNIQUES CDA0222 [2 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [4 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [-6 Days Left]
+
+Information Security Essentials [4 Days Left]
 
 
 
 # Melvin Ramos
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-7 Days Left]
 
 
 
 # Jasmin Rono
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-7 Days Left]
+
+
+
+# Ana Luiza Amorim
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [9 Days Left]
 
 
 
