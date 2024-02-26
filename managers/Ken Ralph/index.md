@@ -6,7 +6,7 @@
 # Stephen Barbour
 
 
-Dimensions - Managers (CDIMENSIONS) [3 Days Left]
+Dimensions - Managers (CDIMENSIONS) [-3 Days Left]
 
 
 
