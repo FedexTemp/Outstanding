@@ -6,48 +6,46 @@
 # Nedim Yusufov
 
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-565 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-571 Days Left]
 
 
 
 # HARSHINDER SINGH
 
 
-SENSEAWARE TRAINING RECURRENCY (CSENSEP) [1 Days Left]
+International DG Handling (CINTDGH) [10 Days Left]
 
-SmartDG Training (CSMTDG1) [-25 Days Left]
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [1 Days Left]
-
-
-
-# Marvin Roth Lagura
-
-
-767 GS Recurrent (C767GSP) [-2 Days Left]
-
-Load Captain Recurrent (CLCAPTP) [2 Days Left]
-
-
-
-# Harold Uy
-
-
-Dry Ice Replenishment (CREICE) [2 Days Left]
-
-
-
-# Yonis Dahir
-
-
-Ground Security Coordinator CBT (CGSCJBX) [4 Days Left]
+DG Specialist Recurrency (CDGSR) [10 Days Left]
 
 
 
 # Tony Lewis
 
 
-Ground Security Coordinator CBT (CGSCJBX) [8 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [2 Days Left]
+
+
+
+# William Koopman
+
+
+Airbus GS Recurrent (C300GRC) Multi-language [5 Days Left]
+
+Airbus W&B Recurrent (C300WBP) [5 Days Left]
+
+
+
+# Mandeep Malli
+
+
+International DG Handling (CINTDGH) [5 Days Left]
+
+
+
+# Carissa Rodriguez
+
+
+FEEDER LOAD VERIFICA-RECURRENT [10 Days Left]
 
 
 
