@@ -6,30 +6,23 @@
 # Nifaz Shafi
 
 
-Information Security Essentials [-13 Days Left]
+Information Security Essentials [-19 Days Left]
 
-Dimensions - Managers (CDIMENSIONS) [3 Days Left]
+Dimensions - Managers (CDIMENSIONS) [-3 Days Left]
 
 
 
 # Alan Africa
 
 
-Dimensions - Managers (CDIMENSIONS) [4 Days Left]
+Dimensions - Managers (CDIMENSIONS) [-2 Days Left]
 
 
 
-# Cory Bagnall
+# Taranjit (Taran) Kapoor
 
 
-Dimensions - Managers (CDIMENSIONS) [4 Days Left]
-
-
-
-# Franklin Ho
-
-
-Dimensions - Managers (CDIMENSIONS) [4 Days Left]
+Dry Ice Replenishment (CREICE) [9 Days Left]
 
 
 
