@@ -6,76 +6,72 @@
 # Nedim Yusufov
 
 
-International DG Handling (CINTDGH) [5 Days Left]
+International DG Handling (CINTDGH) [-2 Days Left]
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-578 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-585 Days Left]
 
-DG Specialist Recurrency (CDGSR) [5 Days Left]
+DG Specialist Recurrency (CDGSR) [-2 Days Left]
 
-WorkbenchDG Recurrent Training (CWBDGT3) [6 Days Left]
+WorkbenchDG Recurrent Training (CWBDGT3) [-1 Days Left]
 
 
 
 # HARSHINDER SINGH
 
 
-International DG Handling (CINTDGH) [3 Days Left]
+DG Specialist Recurrency (CDGSR) [-4 Days Left]
 
-DG Specialist Recurrency (CDGSR) [3 Days Left]
-
-WorkbenchDG Recurrent Training (CWBDGT3) [6 Days Left]
+WorkbenchDG Recurrent Training (CWBDGT3) [-1 Days Left]
 
 
 
 # William Koopman
 
 
-Airbus GS Recurrent (C300GRC) Multi-language [-2 Days Left]
-
-Airbus W&B Recurrent (C300WBP) [-2 Days Left]
+Airbus W&B Recurrent (C300WBP) [-9 Days Left]
 
 
 
 # Mandeep Malli
 
 
-International DG Handling (CINTDGH) [-2 Days Left]
-
-
-
-# Carissa Rodriguez
-
-
-SENSEAWARE TRAINING RECURRENCY (CSENSEP) [6 Days Left]
+International DG Handling (CINTDGH) [-9 Days Left]
 
 
 
 # Yonis Dahir
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [10 Days Left]
-
-International DG Handling (CINTDGH) [10 Days Left]
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [10 Days Left]
-
-Aircraft Mishap Response (CMSHPRX) [10 Days Left]
+International DG Handling (CINTDGH) [3 Days Left]
 
 
 
 # CHRISTINE HAJSAN
 
 
-DG In-Depth Security Training WBT (CDGST1) [10 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [9 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+DG In-Depth Security Training WBT (CDGST1) [3 Days Left]
 
 
 
-# Sophia Khan
+# Jason Kalvari
 
 
-International DG Handling (CINTDGH) [5 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [7 Days Left]
 
-DG Specialist Recurrency (CDGSR) [5 Days Left]
+
+
+# Rene Sencio
+
+
+Corporate Security Awareness TSA - INTL (CCSATT) [9 Days Left]
+
+International DG Handling (CINTDGH) [1 Days Left]
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [2 Days Left]
 
 
 
