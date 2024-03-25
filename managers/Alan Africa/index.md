@@ -3,36 +3,36 @@
 
 
 
-# Daksh Setia
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-14 Days Left]
-
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [-17 Days Left]
-
-
-
 # Rommel Pira
 
 
-IOSA Basic Auditing Principles (M910733) [7 Days Left]
+IOSA Basic Auditing Principles (M910733) [0 Days Left]
 
-IOSA Auditing Techniques (M910734) [7 Days Left]
+IOSA Auditing Techniques (M910734) [0 Days Left]
 
 
 
 # Kevin Salizon
 
 
-3 POINTS OF CONTACT CDA0221 [9 Days Left]
+3 POINTS OF CONTACT CDA0221 [2 Days Left]
 
-Corporate Security Awareness TSA - INTL (CCSATT) [18 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [4 Days Left]
 
-International DG Handling (CINTDGH) [9 Days Left]
+International DG Handling (CINTDGH) [2 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
 
-SAFE LIFTING TECHNIQUES CDA0222 [8 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [1 Days Left]
+
+Information Security Essentials [4 Days Left]
+
+
+
+# Navpreet Kaur
+
+
+International DG Handling (CINTDGH) [15 Days Left]
 
 
 
