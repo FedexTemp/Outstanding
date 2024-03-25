@@ -3,63 +3,65 @@
 
 
 
-# Shubham Khurana
-
-
-Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-78 Days Left]
-
-Key Policy Review: Active Threat Response (CWPVATR) – EN (Canada Only) [-80 Days Left]
-
-
-
 # Wilson Zheng
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-11 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-18 Days Left]
 
 
 
 # Pawandeep Singh
 
 
-Information Security Essentials [-16 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
 
 
 
 # Fermin Abo
 
 
-T-Stacking (CTSTACK) Multi-language [-2 Days Left]
-
-ULD Loading Recurrent (CULDLDP) [-34 Days Left]
+DG In-Depth Security - TEST Only (CDGST) [4 Days Left]
 
 
 
 # GURPREET SIDHU
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-11 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-18 Days Left]
 
 
 
 # Julian Sargeant
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-5 Days Left]
-
-
-
-# Alvin Ung-York
-
-
-International DG Handling (CINTDGH) [-4 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-12 Days Left]
 
 
 
 # Natalia Ardila
 
 
-International DG Handling (CINTDGH) [-6 Days Left]
+3 POINTS OF CONTACT CDA0221 [14 Days Left]
+
+International DG Handling (CINTDGH) [-13 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [14 Days Left]
+
+
+
+# Fredrick Mitala
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [17 Days Left]
+
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [17 Days Left]
+
+
+
+# Mhelvel Tuazon
+
+
+International DG Handling (CINTDGH) [0 Days Left]
 
 
 
