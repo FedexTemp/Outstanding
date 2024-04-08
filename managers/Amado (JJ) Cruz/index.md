@@ -6,37 +6,21 @@
 # Mandeep Malli
 
 
-International DG Handling (CINTDGH) [-30 Days Left]
-
-
-
-# CHRISTINE HAJSAN
-
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-5 Days Left]
-
-
-
-# Steve Sun
-
-
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-7 Days Left]
+International DG Handling (CINTDGH) [-37 Days Left]
 
 
 
 # Rene Sencio
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [8 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [1 Days Left]
 
 
 
-# Harold Uy
+# Jonathan (Jon) Rooney
 
 
-Competency Check for Tie Down (CDGTDHC) [1 Days Left]
-
-DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [2 Days Left]
+Cargo Loader E-Stop Job Aid (CESTOP) [0 Days Left]
 
 
 
