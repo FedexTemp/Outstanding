@@ -6,74 +6,116 @@
 # Amritpaul Kooner
 
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-633 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-640 Days Left]
 
 
 
 # Vasily Vysotsky
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-90 Days Left]
+International DG Handling (CINTDGH) [8 Days Left]
 
-Ground Security Coordinator CBT (CGSCJBX) [-104 Days Left]
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-55 Days Left]
+DG Specialist Recurrency (CDGSR) [8 Days Left]
 
 
 
 # Yuka Uchiyama
 
 
-Forklift Class 5 Recurrent (CFORK5P) [3 Days Left]
+Forklift Class 5 Recurrent (CFORK5P) [-4 Days Left]
 
-International DG Handling (CINTDGH) [-37 Days Left]
+International DG Handling (CINTDGH) [-44 Days Left]
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [3 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-4 Days Left]
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-23 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [-30 Days Left]
 
-Loader A/C CDR15 Recurrent (CDR15P) Multi-language [4 Days Left]
+Loader A/C CDR15 Recurrent (CDR15P) Multi-language [-3 Days Left]
 
-Loader A/C CDR30 Recurrent (CDR30P) Multi-language [4 Days Left]
+Loader A/C CDR30 Recurrent (CDR30P) Multi-language [-3 Days Left]
 
-Load Captain Recurrent (CLCAPTP) [5 Days Left]
+Load Captain Recurrent (CLCAPTP) [-2 Days Left]
 
 
 
 # Stanley Go
 
 
-DG In-Depth Security Training WBT (CDGST1) [6 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-1 Days Left]
 
 
 
 # Austin Olago
 
 
-Cargo Screening Recurrent (CSCRNIP) Multi-language [-4 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [-11 Days Left]
 
 
 
 # Kenneth Ding
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [10 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [3 Days Left]
 
-DG In-Depth Security Training WBT (CDGST1) [2 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [-5 Days Left]
 
 
 
 # Thomas Bleakley
 
 
-SmartDG Recurrent Training (CSMTDGR) [5 Days Left]
+Weight Balance Quarterly Comp (CWBQC) [7 Days Left]
+
+SmartDG Recurrent Training (CSMTDGR) [-2 Days Left]
 
 
 
-# Kevin Luong
+# Randy Barnes
 
 
-DG Tie Down/Halon Hook-Up (CDGTDHH) [4 Days Left]
+Dry Ice Replenishment (CREICE) [10 Days Left]
+
+
+
+# Jamie Cooles
+
+
+Weight Balance Quarterly Comp (CWBQC) [6 Days Left]
+
+
+
+# Michael (Mike) D'Onofrio
+
+
+Weight Balance Quarterly Comp (CWBQC) [6 Days Left]
+
+
+
+# Norman Estaris
+
+
+Weight Balance Quarterly Comp (CWBQC) [6 Days Left]
+
+
+
+# Paola Limbo
+
+
+T-Stacking (CTSTACK) Multi-language [4 Days Left]
+
+
+
+# Kenrick Moseley
+
+
+Weight Balance Quarterly Comp (CWBQC) [6 Days Left]
+
+
+
+# Christopher (Chris) Nordstrom
+
+
+T-Stacking (CTSTACK) Multi-language [10 Days Left]
 
 
 
