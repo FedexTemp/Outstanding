@@ -6,65 +6,62 @@
 # Wilson Zheng
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-32 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-39 Days Left]
 
 
 
 # Pawandeep Singh
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-4 Days Left]
-
-
-
-# Fermin Abo
-
-
-DG In-Depth Security - TEST Only (CDGST) [-10 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-11 Days Left]
 
 
 
 # GURPREET SIDHU
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-32 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-39 Days Left]
 
 
 
 # Julian Sargeant
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-26 Days Left]
-
-
-
-# Fredrick Mitala
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
-
-CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [3 Days Left]
-
-
-
-# Thandolwenkosi Khumalo
-
-
-International DG Handling (CINTDGH) [-10 Days Left]
-
-
-
-# Brad Kerr
-
-
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [6 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-33 Days Left]
 
 
 
 # Theo van der Voet
 
 
-International DG Handling (CINTDGH) [4 Days Left]
+International DG Handling (CINTDGH) [-3 Days Left]
+
+
+
+# Judessa Mae Badong
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
+
+
+
+# Val Jamora
+
+
+3 POINTS OF CONTACT CDA0221 [10 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [20 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [10 Days Left]
+
+
+
+# Vaishnavi Thakare
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [4 Days Left]
+
+Information Security Essentials [4 Days Left]
 
 
 
