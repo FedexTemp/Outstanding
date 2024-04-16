@@ -6,51 +6,46 @@
 # Fernando Ferreira
 
 
-International DG Handling (CINTDGH) [-28 Days Left]
+International DG Handling (CINTDGH) [-35 Days Left]
 
 
 
 # Jackson Li
 
 
-Full TRIP/VCom System (CTRIPX) [-68 Days Left]
+Full TRIP/VCom System (CTRIPX) [-75 Days Left]
+
+Canada Commander Loader Fall Protection Plan Training [8 Days Left]
 
 
 
 # Tushar Oza
 
 
-Full TRIP/VCom System (CTRIPX) [-68 Days Left]
+Full TRIP/VCom System (CTRIPX) [-75 Days Left]
+
+Canada Commander Loader Fall Protection Plan Training [8 Days Left]
 
 
 
 # Balkar Billing
 
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-12 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-19 Days Left]
 
 
 
 # Mike Formella
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [2 Days Left]
-
-
-
-# Kier Fortes
-
-
-International DG Handling (CINTDGH) [-10 Days Left]
-
-DG Specialist Recurrency (CDGSR) [-10 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-5 Days Left]
 
 
 
 # DAMIEN BROWN
 
 
-International DG Handling (CINTDGH) [9 Days Left]
+Cargo Tug Class 5 Recurrent (CTUGC5P) Multi-language [10 Days Left]
 
 
 
