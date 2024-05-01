@@ -3,17 +3,12 @@
 
 
 
-# Robert Urquhart
+# Amado (JJ) Cruz
 
 
-Weight Balance Quarterly Comp (CWBQC) [7 Days Left]
+Aircraft Marshalling Feeder Recurrent (CMRSHFP) [7 Days Left]
 
-
-
-# ALEX NG
-
-
-QDM Overview (C002124) [7 Days Left]
+A300/310 PB&T Recurrency (M91309P) [8 Days Left]
 
 
 
