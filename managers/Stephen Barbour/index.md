@@ -3,12 +3,21 @@
 
 
 
-# Amado (JJ) Cruz
+# Franklin Ho
 
 
-Aircraft Marshalling Feeder Recurrent (CMRSHFP) [7 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [22 Days Left]
 
-A300/310 PB&T Recurrency (M91309P) [8 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [11 Days Left]
+
+Ground Security Coordinator CBT (CGSCJBX) [11 Days Left]
+
+
+
+# Taranjit (Taran) Kapoor
+
+
+Dimensions - Managers (CDIMENSIONS) [10 Days Left]
 
 
 
