@@ -3,32 +3,21 @@
 
 
 
-# Rommel Pira
+# Avneet Kaur Avneet Kaur
 
 
-IOSA Basic Auditing Principles (M910733) [-35 Days Left]
+T-Stacking (CTSTACK) Multi-language [11 Days Left]
 
-Federal Aviation Regulations (M910731) [-5 Days Left]
-
-ASAP Recurrent (M91552P) [-5 Days Left]
-
-Human Factors CBT (M930145) [-5 Days Left]
-
-Voluntary Disclosure Report Process (M930176) [-5 Days Left]
+ULD Loading Recurrent (CULDLDP) [11 Days Left]
 
 
 
-# Navpreet Kaur
+# Anthony Comple
 
 
-International DG Handling (CINTDGH) [-20 Days Left]
+3 POINTS OF CONTACT CDA0221 [8 Days Left]
 
-
-
-# Fernanda Valiente Keller
-
-
-SAFE LIFTING TECHNIQUES CDA0222 [-17 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [8 Days Left]
 
 
 
