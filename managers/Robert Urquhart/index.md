@@ -6,56 +6,63 @@
 # Amritpaul Kooner
 
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-678 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-689 Days Left]
 
-Canada Commander Loader Fall Protection Plan Training [-23 Days Left]
+Canada Commander Loader Fall Protection Plan Training [-34 Days Left]
 
 
 
 # Vasily Vysotsky
 
 
-International DG Handling (CINTDGH) [-30 Days Left]
+International DG Handling (CINTDGH) [-41 Days Left]
 
-DG Specialist Recurrency (CDGSR) [-30 Days Left]
+DG Specialist Recurrency (CDGSR) [-41 Days Left]
 
-Canada Commander Loader Fall Protection Plan Training [-23 Days Left]
+Canada Commander Loader Fall Protection Plan Training [-34 Days Left]
 
 
 
 # Ayoub Wardere
 
 
-Competency Check for Tie Down (CDGTDHC) [-19 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [9 Days Left]
 
+Competency Check for Tie Down (CDGTDHC) [-30 Days Left]
 
-
-# Erwin Rommel (Erwin) Cruz
-
-
-Airbus GS Recurrent (C300GRC) Multi-language [3 Days Left]
-
-757 GS Recurrent (C757GSP) Multi-language [3 Days Left]
-
-Belt Loader Class 1 Recurrent (CBELT1P) Multi-language [3 Days Left]
-
-Safety Mgmt System (SMS) Basics Course (M910571) [3 Days Left]
+767 GS Recurrent (C767GSP) [5 Days Left]
 
 
 
 # Gerardo (Gerry) Sayon
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [13 Days Left]
-
-Aircraft Mishap Response (CMSHPRX) [13 Days Left]
+ULD weighing Recurrent (CULDWGP) - Multi Language [4 Days Left]
 
 
 
-# Yuka Uchiyama
+# Thomas Bleakley
 
 
-T-Stacking (CTSTACK) Multi-language [8 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [18 Days Left]
+
+767 GS Recurrent (C767GSP) [6 Days Left]
+
+767 W&B Recurrent (C767WP) [6 Days Left]
+
+
+
+# David Harpool
+
+
+International DG Handling (CINTDGH) [9 Days Left]
+
+
+
+# Kenrick Moseley
+
+
+Transportation Management System (TMS) - Introduction to Linehaul [4 Days Left]
 
 
 
