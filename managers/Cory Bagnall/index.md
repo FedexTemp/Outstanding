@@ -6,114 +6,161 @@
 # Tushar Oza
 
 
-Canada Commander Loader Fall Protection Plan Training [-34 Days Left]
+Information Security Essentials [8 Days Left]
+
+Canada Commander Loader Fall Protection Plan Training [-41 Days Left]
 
 
 
 # Balkar Billing
 
 
-Vehicle and Package Security (Canada – VEHICLESEC) [-61 Days Left]
+Vehicle and Package Security (Canada – VEHICLESEC) [-68 Days Left]
 
 
 
 # Mike Formella
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-47 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-54 Days Left]
 
 
 
 # Robert Araki
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [3 Days Left]
+B767 Towbar Operations Recurrent Qualification (M91626P) [7 Days Left]
+
+Dry Ice Replenishment (CREICE) [9 Days Left]
+
+Safety Mgmt System (SMS) Basics Course (M910571) [10 Days Left]
 
 
 
 # Brinderpaul (Brinder) Dhami
 
 
-T-Stacking (CTSTACK) Multi-language [-18 Days Left]
+Information Security Essentials [8 Days Left]
+
+T-Stacking (CTSTACK) Multi-language [-25 Days Left]
 
 
 
 # Jason Liu
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [-16 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [-23 Days Left]
 
-International DG Handling (CINTDGH) [-16 Days Left]
+International DG Handling (CINTDGH) [-23 Days Left]
+
+Information Security Essentials [8 Days Left]
 
 
 
 # Justin Calica
 
 
-Ground Security Coordinator CBT (CGSCJBX) [-3 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [-10 Days Left]
 
-QDM Basics Video - C002103 [4 Days Left]
+QDM Basics Video - C002103 [-3 Days Left]
 
-Fire Extinguisher Training (CFIREXT) [4 Days Left]
+Fire Extinguisher Training (CFIREXT) [-3 Days Left]
 
-Priority Alert (CPA1X) [4 Days Left]
+Priority Alert (CPA1X) [-3 Days Left]
 
-Full TRIP/VCom System (CTRIPX) [4 Days Left]
+Full TRIP/VCom System (CTRIPX) [-3 Days Left]
 
 
 
 # Man Chin (Eric) Chung
 
 
-QDM Overview (C002124) [3 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [6 Days Left]
 
-
-
-# Kimiaki (Kimi) Nagata
-
-
-International DG Handling (CINTDGH) [-10 Days Left]
+QDM Overview (C002124) [-4 Days Left]
 
 
 
 # James Bell
 
 
-International DG Handling (CINTDGH) [5 Days Left]
+International DG Handling (CINTDGH) [-2 Days Left]
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [1 Days Left]
+
+Information Security Essentials [8 Days Left]
 
 
 
 # Fernando Ferreira
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [10 Days Left]
-
-
-
-# Gilbert Limbo
-
-
-Dangerous Goods Specialist Precourse (CIDGSIT) [-3 Days Left]
-
-SmartDG Precourse Training (CSMTDGP) [-3 Days Left]
-
-WorkbenchDG Precourse Training (CWBDGT2) [-3 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
 
 
 
 # Amritpal Saini
 
 
-International DG Handling (CINTDGH) [-2 Days Left]
+International DG Handling (CINTDGH) [-9 Days Left]
 
 
 
 # Glenn Santiago
 
 
-Information Security Essentials [9 Days Left]
+Information Security Essentials [2 Days Left]
+
+
+
+# Jan Paul (Paul) Besteman
+
+
+International DG Handling (CINTDGH) [4 Days Left]
+
+
+
+# Zheng Xing (Shing) Bian
+
+
+Information Security Essentials [8 Days Left]
+
+
+
+# Paul Conceicao
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [7 Days Left]
+
+Information Security Essentials [8 Days Left]
+
+
+
+# Norman Jaurigue
+
+
+Information Security Essentials [8 Days Left]
+
+
+
+# Daniel Lamonte
+
+
+Information Security Essentials [8 Days Left]
+
+
+
+# Jose Ponton Garcia
+
+
+International DG Handling (CINTDGH) [5 Days Left]
+
+
+
+# Ian Reyes
+
+
+International DG Handling (CINTDGH) [-1 Days Left]
 
 
 
