@@ -6,142 +6,99 @@
 # Amritpaul Kooner
 
 
-Forklift Class 4 Recurrent (CFORK4P) Multi-language [-696 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [9 Days Left]
 
-T-Stacking (CTSTACK) Multi-language [4 Days Left]
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [9 Days Left]
 
-Canada Commander Loader Fall Protection Plan Training [-41 Days Left]
+Forklift Class 4 Recurrent (CFORK4P) Multi-language [-710 Days Left]
 
-B757 Towbar Operations Recurrent Qualification (M91508P) [7 Days Left]
+T-Stacking (CTSTACK) Multi-language [-10 Days Left]
+
+Canada Commander Loader Fall Protection Plan Training [-55 Days Left]
+
+B757 Towbar Operations Recurrent Qualification (M91508P) [-7 Days Left]
+
+Cargo Screening Recurrent (CSCRNIP) Multi-language [9 Days Left]
 
 
 
 # Vasily Vysotsky
 
 
-International DG Handling (CINTDGH) [-48 Days Left]
-
-DG Specialist Recurrency (CDGSR) [-48 Days Left]
-
-Canada Commander Loader Fall Protection Plan Training [-41 Days Left]
+DG Specialist Recurrency (CDGSR) [-62 Days Left]
 
 
 
 # Ayoub Wardere
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [2 Days Left]
+Competency Check for Tie Down (CDGTDHC) [-51 Days Left]
 
-Competency Check for Tie Down (CDGTDHC) [-37 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [18 Days Left]
 
-B757 Towbar Operations Recurrent Qualification (M91508P) [7 Days Left]
-
-GPU Operations Recurrent Qualification [7 Days Left]
-
-Airbus Towbar Operations Recurrent Qualification (M91454P) [6 Days Left]
+B767 Pushback and Tow Recurrency (M91572P) [9 Days Left]
 
 
 
 # Gerardo (Gerry) Sayon
 
 
-Ground Security Coordinator CBT (CGSCJBX) [10 Days Left]
-
-
-
-# Thomas Bleakley
-
-
-Ground Security Coordinator CBT (CGSCJBX) [4 Days Left]
-
-767 GS Recurrent (C767GSP) [-1 Days Left]
-
-767 W&B Recurrent (C767WP) [-1 Days Left]
-
-
-
-# Kenrick Moseley
-
-
-B767 Towbar Operations Recurrent Qualification (M91626P) [7 Days Left]
-
-GPU Operations Recurrent Qualification [7 Days Left]
-
-
-
-# Clarence Ang
-
-
-B767 Towbar Operations Recurrent Qualification (M91626P) [7 Days Left]
-
-
-
-# Randy Barnes
-
-
-T-Stacking (CTSTACK) Multi-language [6 Days Left]
-
-Safety Mgmt System (SMS) Basics Course (M910571) [7 Days Left]
-
-Airbus GS Recurrent (C300GRC) Multi-language [7 Days Left]
-
-Feeder Handling Recurrent (CAF137P) Multi-language [7 Days Left]
-
-Pallet Building Recurrency (CFT100P) Multi-Language [6 Days Left]
-
-Load Captain Recurrent (CLCAPTP) [7 Days Left]
-
-Port. Light Units Rec (CLUNT1P) [7 Days Left]
-
-
-
-# Jamie Cooles
-
-
-B767 Towbar Operations Recurrent Qualification (M91626P) [7 Days Left]
-
-GPU Operations Recurrent Qualification [7 Days Left]
-
-
-
-# Paola Limbo
-
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [8 Days Left]
-
-
-
-# Kevin Luong
-
-
-GPU Operations Recurrent Qualification [7 Days Left]
-
-
-
-# RAJVANSH SINGH
-
-
-Information Security Essentials [5 Days Left]
-
-Cargo Screening Recurrent (CSCRNIP) Multi-language [5 Days Left]
-
-
-
-# Yuka Uchiyama
-
-
-B757 Towbar Operations Recurrent Qualification (M91508P) [7 Days Left]
+767 GS Recurrent (C767GSP) [0 Days Left]
 
 
 
 # Derek White
 
 
-B757 Towbar Operations Recurrent Qualification (M91508P) [7 Days Left]
+B757 Towbar Operations Recurrent Qualification (M91508P) [-7 Days Left]
 
-B767 Towbar Operations Recurrent Qualification (M91626P) [7 Days Left]
+B767 Towbar Operations Recurrent Qualification (M91626P) [-7 Days Left]
 
-Airbus Towbar Operations Recurrent Qualification (M91454P) [6 Days Left]
+Airbus Towbar Operations Recurrent Qualification (M91454P) [-8 Days Left]
+
+
+
+# Clarence Ang
+
+
+T-Stacking (CTSTACK) Multi-language [10 Days Left]
+
+ULD weighing Recurrent (CULDWGP) - Multi Language [10 Days Left]
+
+Belt Loader Class 6 Recurrent (CBELT6P) Multi-language [10 Days Left]
+
+
+
+# Thomas Bleakley
+
+
+International DG Handling (CINTDGH) [11 Days Left]
+
+DG Specialist Recurrency (CDGSR) [22 Days Left]
+
+
+
+# Kenrick Moseley
+
+
+Corporate Security Awareness TSA - INTL (CCSATT) [10 Days Left]
+
+Pallet Building Recurrency (CFT100P) Multi-Language [10 Days Left]
+
+DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [20 Days Left]
+
+
+
+# Nepthalie Valencia
+
+
+Load Captain Recurrent (CLCAPTP) [7 Days Left]
+
+Loader A/C CDR30 Recurrent (CDR30P) Multi-language [7 Days Left]
+
+Loader A/C CDR15 Recurrent (CDR15P) Multi-language [7 Days Left]
+
+Wingwalker Recurrent (CWNGWKP) [7 Days Left]
 
 
 
