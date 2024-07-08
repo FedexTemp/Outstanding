@@ -3,68 +3,76 @@
 
 
 
-# Rene Sencio
+# Carlos Rojas
 
 
-Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-76 Days Left]
+Ground Security Coordinator CBT (CGSCJBX) [17 Days Left]
 
-Canada Commander Loader Fall Protection Plan Training [-47 Days Left]
+Jumpseat & Opt Flt Crew Rec (CJUMPEP) [18 Days Left]
 
-
-
-# Roy Limawal
-
-
-Information Security Essentials [-13 Days Left]
+SENSEAWARE TRAINING RECURRENCY (CSENSEP) [18 Days Left]
 
 
 
-# Jan Montecines
+# Harold Uy
 
 
-DG In-Depth Security Training WBT (CDGST1) [4 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [15 Days Left]
 
-Ground Security Coordinator CBT (CGSCJBX) [2 Days Left]
+T-Stacking (CTSTACK) Multi-language [20 Days Left]
+
+Ground Security Coordinator CBT (CGSCJBX) [15 Days Left]
+
+B767 Pushback and Tow Recurrency (M91572P) [5 Days Left]
+
+767 GS Recurrent (C767GSP) [13 Days Left]
+
+Load Captain Recurrent (CLCAPTP) [11 Days Left]
+
+Aircraft Mishap Response (CMSHPRX) [15 Days Left]
 
 
 
 # Mandeep Malli
 
 
-B757 Towbar Operations Recurrent Qualification (M91508P) [-14 Days Left]
+B757 Towbar Operations Recurrent Qualification (M91508P) [-28 Days Left]
 
-B767 Towbar Operations Recurrent Qualification (M91626P) [-14 Days Left]
-
-
-
-# Isabelo (Lito) Ong
-
-
-Information Security Essentials [-13 Days Left]
+B767 Towbar Operations Recurrent Qualification (M91626P) [-28 Days Left]
 
 
 
-# Wesley Wong
+# Nikolai Jensen
 
 
-Forklift Class 5 Recurrent (CFORK5P) [1 Days Left]
+T-Stacking (CTSTACK) Multi-language [-10 Days Left]
 
-T-Stacking (CTSTACK) Multi-language [1 Days Left]
 
-ULD weighing Recurrent (CULDWGP) - Multi Language [1 Days Left]
 
-Load Captain Recurrent (CLCAPTP) [1 Days Left]
+# Rene Sencio
 
-Loader A/C CDR30 Recurrent (CDR30P) Multi-language [1 Days Left]
 
-Loader A/C CDR15 Recurrent (CDR15P) Multi-language [1 Days Left]
+Multi Engine Feeder Aircraft Chocking Safety Marking Job Aid  CMEFCSF) [-90 Days Left]
+
+Information Security Essentials [9 Days Left]
+
+Canada Commander Loader Fall Protection Plan Training [-61 Days Left]
 
 
 
 # Sherwin Yan
 
 
-DG In-Depth Security Training WBT (CDGST1) [5 Days Left]
+Cargo Screening Recurrent (CSCRNIP) Multi-language [-3 Days Left]
+
+
+
+# William Koopman
+
+
+767 W&B Recurrent (C767WP) [-3 Days Left]
+
+DG Tie Down/Halon Hook-UP Recurrency (CDGTDHR) [38 Days Left]
 
 
 
