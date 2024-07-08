@@ -3,167 +3,139 @@
 
 
 
-# GURPREET SIDHU
+# Alexander Hopkins
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-102 Days Left]
-
-Information Security Essentials [-6 Days Left]
+Information Security Essentials [16 Days Left]
 
 
 
 # Bhupinder Singh
 
 
-Information Security Essentials [-6 Days Left]
+3 POINTS OF CONTACT CDA0221 [17 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [34 Days Left]
 
 
 
-# Seraj Niyazi
+# Calvin Sidhu
 
 
-Corporate Security Awareness TSA - INTL (CCSATT) [-42 Days Left]
-
-
-
-# Fermin Abo
-
-
-ULD weighing Recurrent (CULDWGP) - Multi Language [-17 Days Left]
-
-
-
-# Dennis Salvador
-
-
-ULD weighing Recurrent (CULDWGP) - Multi Language [-17 Days Left]
-
-
-
-# Kiganda Immanuel Bakumma
-
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Jyot Bhatia
-
-
-3 POINTS OF CONTACT CDA0221 [4 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [8 Days Left]
-
-International DG Handling (CINTDGH) [-5 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-10 Days Left]
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Brandon Carolino
-
-
-Information Security Essentials [-6 Days Left]
+SAFE LIFTING TECHNIQUES CDA0222 [18 Days Left]
 
 
 
 # Carlo Galvez
 
 
-Information Security Essentials [-6 Days Left]
-
-
-
-# Shubham Khurana
-
-
-3 POINTS OF CONTACT CDA0221 [-9 Days Left]
-
-Corporate Security Awareness TSA - INTL (CCSATT) [-18 Days Left]
-
-International DG Handling (CINTDGH) [-9 Days Left]
-
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [-5 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [-5 Days Left]
-
-Information Security Essentials [-5 Days Left]
-
-
-
-# Ioly Matthews Nyahn
-
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Sarath Mohan
-
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Chitransh Nigam
-
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Karm Purewal
-
-
-Information Security Essentials [-6 Days Left]
-
-
-
-# Isha Sharma
-
-
-Information Security Essentials [-6 Days Left]
+DG In-Depth Security Training WBT (CDGST1) [16 Days Left]
 
 
 
 # Gurvinder Singh
 
 
-Information Security Essentials [-6 Days Left]
+Workplace Hazardous Materials Information System (WHMIS) 2015 – Canada [-8 Days Left]
 
 
 
-# Mhelvel Tuazon
+# James Iglesias
 
 
-Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [3 Days Left]
+Corporate Security Awareness TSA - INTL (CCSATT) [22 Days Left]
 
+International DG Handling (CINTDGH) [11 Days Left]
 
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [22 Days Left]
 
-# Theo van der Voet
+SAFE LIFTING TECHNIQUES CDA0222 [22 Days Left]
 
+DG In-Depth Security Training WBT (CDGST1) [19 Days Left]
 
-Corporate Security Awareness TSA - INTL (CCSATT) [2 Days Left]
-
-SAFE LIFTING TECHNIQUES CDA0222 [2 Days Left]
-
-Information Security Essentials [1 Days Left]
-
-
-
-# Jerico Redito
-
-
-SAFE LIFTING TECHNIQUES CDA0222 [8 Days Left]
+Information Security Essentials [22 Days Left]
 
 
 
-# Andrew Wigboldus
+# Judessa Mae Badong
 
 
-Information Security Essentials [10 Days Left]
+Information Security Essentials [15 Days Left]
+
+
+
+# Jyot Bhatia
+
+
+3 POINTS OF CONTACT CDA0221 [-17 Days Left]
+
+Corporate Security Awareness TSA - INTL (CCSATT) [-34 Days Left]
+
+International DG Handling (CINTDGH) [-26 Days Left]
+
+SAFE LIFTING TECHNIQUES CDA0222 [-31 Days Left]
+
+Information Security Essentials [-27 Days Left]
+
+
+
+# Karm Purewal
+
+
+DG In-Depth Security Training WBT (CDGST1) [17 Days Left]
+
+
+
+# Natalia Ardila
+
+
+DG In-Depth Security Training WBT (CDGST1) [10 Days Left]
+
+
+
+# NOEL MARIN
+
+
+SAFE LIFTING TECHNIQUES CDA0222 [18 Days Left]
+
+Information Security Essentials [18 Days Left]
+
+
+
+# Patrick Espiritu
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [13 Days Left]
+
+CASOSUAE Safety Observation and Safe/Unsafe Acts SOP – Video for Employees (Canada Only) [13 Days Left]
+
+
+
+# Roger Tipay
+
+
+Information Security Essentials [22 Days Left]
+
+
+
+# Seraj Niyazi
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [18 Days Left]
+
+
+
+# Val Jamora
+
+
+DG In-Depth Security Training WBT (CDGST1) [18 Days Left]
+
+
+
+# Zize Jiang
+
+
+Workplace Violence and Harassment Policy Review (CWPVHEN) – EN (Canada Only) [20 Days Left]
 
 
 
